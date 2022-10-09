@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dayasagar543
+- 👋 Hi, I’m @Dayasagar
 - 👀 I’m interested in development as well as information sequrity
 - 🌱 I’m currently learning java,python,js
 - 💞️ I’m looking to collaborate on git and other platforms 

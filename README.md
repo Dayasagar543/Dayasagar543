@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dayasagar
-- 👀 I’m interested in development as well as information sequrity
-- 🌱 I’m currently learning java,python,js
-- 💞️ I’m looking to collaborate on git and other platforms 
+- 👀 interested in development as well as information sequrity
+- 🌱  currently learning java,python,js
+- 💞️  looking to collaborate on git and other platforms 
 - 📫 How to reach on linkedin dayasagar.543 or email:dayasagar.543@gmail.com
 
 <!---
